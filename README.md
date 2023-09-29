@@ -1,5 +1,7 @@
 # Overview
 
+To properly use the code in this repository, you will have to use npm i, and then npm serve to acess the node_modules that are required for the project.
+
 This is a simple test that I have setup to verify that Firebase cloud database will work for transferring data in the future project I am planning. I am able to upload, modify, and delete data from the database, and it should work for both phoen and web applications
 
 The software that I have made operates as a test for a future task manager app. In the test you can use javascript alerts to create tasks, and complete them. Completeing a task will either incriment a corrosponding value, or it will delete the task entirely. All changes are saved to the Firebase cloud.
